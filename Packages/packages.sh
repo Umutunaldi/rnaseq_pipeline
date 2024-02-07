@@ -46,4 +46,5 @@ done
 
 # Additional installations
 sudo apt-get install -y libncurses-dev libbz2-dev liblzma-dev
+pip install HTSeq
 
