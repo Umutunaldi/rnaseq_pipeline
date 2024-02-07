@@ -87,6 +87,10 @@ for additional parameters.
 
 http://ccb.jhu.edu/software/stringtie/index.shtml?t=manual
 
+Run count.sh to get raw count numbers. You can merge the results to a single matrix
+if you like.
+
+
 # 2.7 Further Steps (DEG, Annotation, etc.)
 
 I didn't provide anything for the next steps. This is mainly because it differs
